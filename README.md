@@ -1,4 +1,5 @@
-[![MasterHead](https://se-images-blob.campuslabs.com/communities/5429/coverphotos/38f69255-8fdb-47bb-88dd-2de5dbe9abc8.jpg)](https://ethanwells.io)
+[![MasterHead]
+(https://se-images-blob.campuslabs.com/communities/5429/coverphotos/38f69255-8fdb-47bb-88dd-2de5dbe9abc8.jpg)](https://ethanwells.io)
 
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate full stack developer from Atlanta</h3>

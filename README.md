@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanwells&label=Profile%20views&color=0e75b6&style=flat" alt="ethanwells" /> </p>
 
-- 🔭 I’m currently working on two distinct AI and machine learning projects: one harnessing RNN LSTM technology for sentiment-driven lyric generation from tweets, and the other focused on developing a real-time fact-checking bot for Twitter. https://github.com/ethanwells?tab=repositories
+- 🔭 I’m currently working on two distinct AI and machine learning projects: one harnessing RNN LSTM technology for sentiment-driven lyric generation from tweets, and the other focused on developing a real-time fact-checking bot for Twitter. [view my repositories](https://github.com/ethanwells?tab=repositories)
 
 - 🌱 I’m currently learning **about machine learning and RNN LSTM networks for sentiment-driven lyric generation, while also furthering my understanding of backend development and computer networks, especially in the context of streaming services, based on my experience at Netflix.**
 

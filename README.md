@@ -1,5 +1,3 @@
-(https://se-images-blob.campuslabs.com/communities/5429/coverphotos/38f69255-8fdb-47bb-88dd-2de5dbe9abc8.jpg)
-
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate full stack developer from Atlanta</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

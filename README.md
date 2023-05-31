@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanwells&label=Profile%20views&color=0e75b6&style=flat" alt="ethanwells" /> </p>
 
-- 🔭 I’m currently working on two distinct AI and machine learning projects: one harnessing RNN LSTM technology for sentiment-driven lyric generation from tweets, and the other focused on developing a real-time fact-checking bot for Twitter. [view my repositories](https://github.com/ethanwells?tab=repositories)
+- 🔭 I’m currently working on **two distinct AI and machine learning projects: one harnessing RNN LSTM technology for sentiment-driven lyric generation from tweets, and the other focused on developing a real-time fact-checking bot for Twitter.**
 
 - 🌱 I’m currently learning **about machine learning and RNN LSTM networks for sentiment-driven lyric generation, while also furthering my understanding of backend development and computer networks, especially in the context of streaming services, based on my experience at Netflix.**
 
@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **guidance and opportunities that will allow me to expand my practical experience in backend development and machine learning. I am particularly interested in unique job roles and mentorship experiences that will expose me to new challenges, fostering the refinement of my skills in these fields. In this journey, I aim to engage with experienced individuals or teams that can guide me towards deepening my understanding of computer networks and machine learning, thereby enriching my contributions to the dynamic landscape of the tech industry.**
 
-- 👨‍💻 All of my projects are available at **https://github.com/ethanwells?tab=repositories**
+- 👨‍💻 All of my projects are available **[on Github](https://github.com/ethanwells?tab=repositories)**
 
 - 💬 Ask me about **my practical experience in backend development, my time at Netflix working on intricate challenges such as media codec compression, horizontal scaling, and DNS/CDN optimization.**
 
 - 📫 How to reach me **ethanthewells@gmail.com | 4045429464**
 
-- 📄 Learn more about my experiences: [view my LinkedIn profile](https://www.linkedin.com/in/ethan-wells-08a740110/)
+- 📄 Learn more about my experiences: **[view my LinkedIn profile](https://www.linkedin.com/in/ethan-wells-08a740110/)**
 
-- ⚡ Fun fact **One day while Googling myself, I found an exerpt from a piece hosted on Google Books featuring a protagonist whom shares my likeness: same full name, same hometown, similar high school name, similar hobbies.**
+- ⚡ Fun fact: **One day while Googling myself, I found an exerpt from a piece hosted on Google Books featuring a protagonist whom shares my likeness: same full name, same hometown, similar high school name, similar hobbies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

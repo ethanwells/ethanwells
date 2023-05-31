@@ -1,4 +1,4 @@
-[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif)](https://ethanwells.io)
+[![MasterHead](https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif)](https://ethanwells.io)
 
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A passionate full stack developer from Atlanta</h3>
